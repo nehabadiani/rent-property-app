@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "state": "Gujarat",
+        "city": "Surat",
+        "price": 10000,
+        "bedrooms": 2,
+        "house_type": "Apartment",
+        "sq_ft": "1500",
+        "title": "A 2 BHK Apartment in Surat"
+    },
+    {
+        "id": "2",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "bedrooms": 2,
+        "price": 60000,
+        "house_type": "Pent House",
+        "sq_ft": "1500",
+        "title": "A 2 BHK pent house in Mumbai"
+    },
+    {
+        "id": "3",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "bedrooms": 3,
+        "price": 30000,
+        "house_type": "Bungalow",
+        "sq_ft": "4500",
+        "title": "A 2 BHK house in Udaipur"
+    },
+    {
+        "id": "4",
+        "state": "Gujarat",
+        "city": "Surat",
+        "bedrooms": 1,
+        "price": 15000,
+        "house_type": "Apartment",
+        "sq_ft": "1800",
+        "title": "A 1 BHK Apartment in Surat"
+    },
+    {
+        "id": "5",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "bedrooms": 2,
+        "price": 25000,
+        "house_type": "Apartment",
+        "sq_ft": "1800",
+        "title": "A 2 BHK Apartment in Ahmedabad"
+    },
+    {
+        "id": "6",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "bedrooms": 4,
+        "price": 90000,
+        "house_type": "Pent House",
+        "sq_ft": "2000",
+        "title": "A 2 BHK pent house in Mumbai"
+    },
+    {
+        "id": "7",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "bedrooms": 2,
+        "price": 19000,
+        "house_type": "Apartment",
+        "sq_ft": "3000",
+        "title": "A 2 BHK Apartment in Pune"
+    },
+    {
+        "id": "8",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "bedrooms": 1,
+        "price": 25000,
+        "house_type": "Bungalow",
+        "sq_ft": "3000",
+        "title": "A 3 BHK Bungalow in Jaipur"
+    },
+    {
+        "id": "9",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "bedrooms": 2,
+        "price": 20000,
+        "house_type": "Pent House",
+        "sq_ft": "2900",
+        "title": "A 2 BHK pent house in Udaipur"
+    },
+    {
+        "id": "10",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "bedrooms": 1,
+        "price": 10000,
+        "house_type": "Apartment",
+        "sq_ft": "1500",
+        "title": "A 1 BHK Apartment in Ahmedabad"
+    },
+    {
+        "id": "11",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "bedrooms": 3,
+        "price": 14000,
+        "house_type": "Apartment",
+        "sq_ft": "1000",
+        "title": "A 2 BHK Apartment in Pune"
+    },
+    {
+        "id": "12",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "bedrooms": 5,
+        "price": 50000,
+        "house_type": "Bungalow",
+        "sq_ft": "3500",
+        "title": "A 2 BHK bunaglow in Udaipur"
+    }
+]
